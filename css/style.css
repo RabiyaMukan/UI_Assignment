@@ -1,0 +1,32 @@
+
+.navbar {
+    overflow: hidden;
+    position:fixed;
+}
+/* .logo-image{
+    width: 50px;
+    height: 44px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-top: -6px;
+} */
+body{
+background-image: url("../images/bg2.jpg");
+}
+#home{
+    padding-left: 20px;
+    font-size: large;
+}
+
+table{
+    margin: 40px;
+  
+}
+
+#expp{
+    margin: 40px;
+}
+
+#dess{
+    margin: 60px;
+}
